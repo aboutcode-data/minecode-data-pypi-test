@@ -111,3 +111,4 @@
 - pkg:pypi/airbyte-source-shopify@3.0.8.dev202509081459
 - pkg:pypi/airbyte-source-shopify@3.0.8
 - pkg:pypi/airbyte-source-shopify@3.0.9rc1
+- pkg:pypi/airbyte-source-shopify@3.0.9

@@ -67,3 +67,4 @@
 - pkg:pypi/airbyte@0.28.0
 - pkg:pypi/airbyte@0.29.0
 - pkg:pypi/airbyte@0.30.0
+- pkg:pypi/airbyte@0.31.0
