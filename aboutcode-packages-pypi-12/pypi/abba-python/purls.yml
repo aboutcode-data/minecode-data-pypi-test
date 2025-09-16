@@ -30,3 +30,4 @@
 - pkg:pypi/abba-python@0.10.4
 - pkg:pypi/abba-python@0.10.5.dev0
 - pkg:pypi/abba-python@0.10.6
+- pkg:pypi/abba-python@0.10.7
