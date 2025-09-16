@@ -11,3 +11,5 @@
 - pkg:pypi/agentics-py@0.0.11
 - pkg:pypi/agentics-py@0.0.12.dev1
 - pkg:pypi/agentics-py@0.0.12
+- pkg:pypi/agentics-py@0.0.13
+- pkg:pypi/agentics-py@0.0.14
