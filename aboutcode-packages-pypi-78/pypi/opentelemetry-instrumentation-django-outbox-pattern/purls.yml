@@ -1,0 +1,4 @@
+- pkg:pypi/opentelemetry-instrumentation-django-outbox-pattern@0.0.1
+- pkg:pypi/opentelemetry-instrumentation-django-outbox-pattern@0.0.2
+- pkg:pypi/opentelemetry-instrumentation-django-outbox-pattern@0.1.0
+- pkg:pypi/opentelemetry-instrumentation-django-outbox-pattern@0.2.0

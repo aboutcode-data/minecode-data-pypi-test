@@ -1,0 +1,9 @@
+- pkg:pypi/spidev@2.0
+- pkg:pypi/spidev@3.0
+- pkg:pypi/spidev@3.1
+- pkg:pypi/spidev@3.2
+- pkg:pypi/spidev@3.4
+- pkg:pypi/spidev@3.5
+- pkg:pypi/spidev@3.6
+- pkg:pypi/spidev@3.7
+- pkg:pypi/spidev@3.8
