@@ -56,4 +56,5 @@
 - pkg:pypi/aiida-workgraph@0.5.3
 - pkg:pypi/aiida-workgraph@0.6.0
 - pkg:pypi/aiida-workgraph@0.7.0
+- pkg:pypi/aiida-workgraph@0.7.1
 - pkg:pypi/aiida-workgraph@1.0.0b1
