@@ -1,0 +1,9 @@
+- pkg:pypi/karellen-llvm-clang@17.0.6.0
+- pkg:pypi/karellen-llvm-clang@18.1.8.0
+- pkg:pypi/karellen-llvm-clang@19.1.7
+- pkg:pypi/karellen-llvm-clang@20.1.8
+- pkg:pypi/karellen-llvm-clang@21.1.0
+- pkg:pypi/karellen-llvm-clang@21.1.0.post18
+- pkg:pypi/karellen-llvm-clang@21.1.0.post31
+- pkg:pypi/karellen-llvm-clang@21.1.1
+- pkg:pypi/karellen-llvm-clang@21.1.1.post1

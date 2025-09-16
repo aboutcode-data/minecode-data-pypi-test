@@ -1,0 +1,12 @@
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.4
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.5
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.6
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.7
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.8
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.9
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.10
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.11
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.12
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.13
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.14
+- pkg:pypi/fbgemm-gpu-genai-nightly@2025.9.15
