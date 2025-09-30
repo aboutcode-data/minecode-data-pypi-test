@@ -114,3 +114,5 @@
 - pkg:pypi/azureml-assets@1.16.88
 - pkg:pypi/azureml-assets@1.16.89
 - pkg:pypi/azureml-assets@1.16.90
+- pkg:pypi/azureml-assets@1.16.91
+- pkg:pypi/azureml-assets@1.16.92
