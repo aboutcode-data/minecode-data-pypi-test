@@ -186,3 +186,5 @@
 - pkg:pypi/acquire@3.20.dev9
 - pkg:pypi/acquire@3.20.dev10
 - pkg:pypi/acquire@3.20
+- pkg:pypi/acquire@3.20.1
+- pkg:pypi/acquire@3.20.2.dev1

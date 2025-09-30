@@ -13,3 +13,4 @@
 - pkg:pypi/acquire-zarr@0.5.0
 - pkg:pypi/acquire-zarr@0.5.1
 - pkg:pypi/acquire-zarr@0.5.2
+- pkg:pypi/acquire-zarr@0.6.0
