@@ -331,3 +331,6 @@
 - pkg:pypi/aws-cdk-lib@2.213.0
 - pkg:pypi/aws-cdk-lib@2.214.0
 - pkg:pypi/aws-cdk-lib@2.215.0
+- pkg:pypi/aws-cdk-lib@2.216.0
+- pkg:pypi/aws-cdk-lib@2.217.0
+- pkg:pypi/aws-cdk-lib@2.218.0

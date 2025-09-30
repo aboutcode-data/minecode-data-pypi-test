@@ -594,3 +594,6 @@
 - pkg:pypi/aws-cdk.cx-api@2.213.0
 - pkg:pypi/aws-cdk.cx-api@2.214.0
 - pkg:pypi/aws-cdk.cx-api@2.215.0
+- pkg:pypi/aws-cdk.cx-api@2.216.0
+- pkg:pypi/aws-cdk.cx-api@2.217.0
+- pkg:pypi/aws-cdk.cx-api@2.218.0
