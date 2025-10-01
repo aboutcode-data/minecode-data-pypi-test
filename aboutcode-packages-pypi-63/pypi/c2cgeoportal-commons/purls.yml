@@ -614,6 +614,9 @@
 - pkg:pypi/c2cgeoportal-commons@2.8.1.244
 - pkg:pypi/c2cgeoportal-commons@2.8.1.245
 - pkg:pypi/c2cgeoportal-commons@2.8.1.246
+- pkg:pypi/c2cgeoportal-commons@2.8.1.247
+- pkg:pypi/c2cgeoportal-commons@2.8.1.248
+- pkg:pypi/c2cgeoportal-commons@2.8.1.249
 - pkg:pypi/c2cgeoportal-commons@2.9rc1
 - pkg:pypi/c2cgeoportal-commons@2.9rc2
 - pkg:pypi/c2cgeoportal-commons@2.9rc3
@@ -817,3 +820,16 @@
 - pkg:pypi/c2cgeoportal-commons@2.9.0.284
 - pkg:pypi/c2cgeoportal-commons@2.9.0.285
 - pkg:pypi/c2cgeoportal-commons@2.9.0.287
+- pkg:pypi/c2cgeoportal-commons@2.9.0.289
+- pkg:pypi/c2cgeoportal-commons@2.9.0.290
+- pkg:pypi/c2cgeoportal-commons@2.9.0.291
+- pkg:pypi/c2cgeoportal-commons@2.9.0.292
+- pkg:pypi/c2cgeoportal-commons@2.9.0.293
+- pkg:pypi/c2cgeoportal-commons@2.9.0.294
+- pkg:pypi/c2cgeoportal-commons@2.9.0.295
+- pkg:pypi/c2cgeoportal-commons@2.9.0.296
+- pkg:pypi/c2cgeoportal-commons@2.9.0.297
+- pkg:pypi/c2cgeoportal-commons@2.9.0.298
+- pkg:pypi/c2cgeoportal-commons@2.9.0.300
+- pkg:pypi/c2cgeoportal-commons@2.9.0.301
+- pkg:pypi/c2cgeoportal-commons@2.9.0.302
