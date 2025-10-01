@@ -928,3 +928,5 @@
 - pkg:pypi/botocore-stubs@1.40.29
 - pkg:pypi/botocore-stubs@1.40.30
 - pkg:pypi/botocore-stubs@1.40.31
+- pkg:pypi/botocore-stubs@1.40.32
+- pkg:pypi/botocore-stubs@1.40.33
