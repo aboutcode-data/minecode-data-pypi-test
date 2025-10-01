@@ -1,0 +1,4 @@
+- pkg:pypi/dagster-serde@0.0.0
+- pkg:pypi/dagster-serde@0.0.1
+- pkg:pypi/dagster-serde@0.0.2
+- pkg:pypi/dagster-serde@0.0.3
