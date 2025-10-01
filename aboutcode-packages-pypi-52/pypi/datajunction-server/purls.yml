@@ -247,4 +247,14 @@
 - pkg:pypi/datajunction-server@0.0.1a117
 - pkg:pypi/datajunction-server@0.0.1a118.dev0
 - pkg:pypi/datajunction-server@0.0.1a118.dev1
+- pkg:pypi/datajunction-server@0.0.1a118.dev2
 - pkg:pypi/datajunction-server@0.0.1a118
+- pkg:pypi/datajunction-server@0.0.2.dev0
+- pkg:pypi/datajunction-server@0.0.2.dev1
+- pkg:pypi/datajunction-server@0.0.2.dev2
+- pkg:pypi/datajunction-server@0.0.2.dev3
+- pkg:pypi/datajunction-server@0.0.2.dev4
+- pkg:pypi/datajunction-server@0.0.2.dev5
+- pkg:pypi/datajunction-server@0.0.2
+- pkg:pypi/datajunction-server@0.0.3
+- pkg:pypi/datajunction-server@0.0.4

@@ -1,0 +1,3 @@
+- pkg:pypi/datahub-postgres-lineage@0.1.0
+- pkg:pypi/datahub-postgres-lineage@0.1.2
+- pkg:pypi/datahub-postgres-lineage@0.1.3

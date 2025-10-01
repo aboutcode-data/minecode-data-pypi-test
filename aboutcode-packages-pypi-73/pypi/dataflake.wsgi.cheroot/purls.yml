@@ -1,0 +1,5 @@
+- pkg:pypi/dataflake.wsgi.cheroot@1.0
+- pkg:pypi/dataflake.wsgi.cheroot@1.1
+- pkg:pypi/dataflake.wsgi.cheroot@2.0
+- pkg:pypi/dataflake.wsgi.cheroot@2.1
+- pkg:pypi/dataflake.wsgi.cheroot@2.2

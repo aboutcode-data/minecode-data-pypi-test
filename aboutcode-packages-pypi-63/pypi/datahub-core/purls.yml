@@ -1,0 +1,4 @@
+- pkg:pypi/datahub-core@0.9.4
+- pkg:pypi/datahub-core@0.9.10
+- pkg:pypi/datahub-core@0.9.11
+- pkg:pypi/datahub-core@1.0.0
