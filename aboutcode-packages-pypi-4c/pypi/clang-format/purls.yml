@@ -64,3 +64,4 @@
 - pkg:pypi/clang-format@20.1.8
 - pkg:pypi/clang-format@21.1.0
 - pkg:pypi/clang-format@21.1.1
+- pkg:pypi/clang-format@21.1.2
