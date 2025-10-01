@@ -42,3 +42,5 @@
 - pkg:pypi/cellxgene-schema@6.0.3
 - pkg:pypi/cellxgene-schema@6.1.0
 - pkg:pypi/cellxgene-schema@6.2.0
+- pkg:pypi/cellxgene-schema@6.2.1
+- pkg:pypi/cellxgene-schema@6.2.2
