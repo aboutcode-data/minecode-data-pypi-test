@@ -11,3 +11,7 @@
 - pkg:pypi/course-constraint-scheduler@2.3.5
 - pkg:pypi/course-constraint-scheduler@2.4.0
 - pkg:pypi/course-constraint-scheduler@2.4.1
+- pkg:pypi/course-constraint-scheduler@2.4.2
+- pkg:pypi/course-constraint-scheduler@2.5.0
+- pkg:pypi/course-constraint-scheduler@2.5.1
+- pkg:pypi/course-constraint-scheduler@2.5.2
