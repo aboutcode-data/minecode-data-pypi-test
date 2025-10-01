@@ -48,3 +48,6 @@
 - pkg:pypi/cased-kit@2.0.0rc4
 - pkg:pypi/cased-kit@2.0.0
 - pkg:pypi/cased-kit@2.0.1
+- pkg:pypi/cased-kit@2.1.0
+- pkg:pypi/cased-kit@2.1.1
+- pkg:pypi/cased-kit@2.1.2
