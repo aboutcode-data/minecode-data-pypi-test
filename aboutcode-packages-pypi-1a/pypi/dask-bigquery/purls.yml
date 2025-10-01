@@ -1,0 +1,6 @@
+- pkg:pypi/dask-bigquery@2021.10.1
+- pkg:pypi/dask-bigquery@2022.5.0
+- pkg:pypi/dask-bigquery@2023.5.0
+- pkg:pypi/dask-bigquery@2023.5.1
+- pkg:pypi/dask-bigquery@2023.9.0
+- pkg:pypi/dask-bigquery@2024.7.0

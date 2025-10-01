@@ -109,6 +109,7 @@
 - pkg:pypi/databricks-connect@14.3.10
 - pkg:pypi/databricks-connect@14.3.11
 - pkg:pypi/databricks-connect@14.3.12
+- pkg:pypi/databricks-connect@14.3.13
 - pkg:pypi/databricks-connect@15.1.0.dev0
 - pkg:pypi/databricks-connect@15.1.0
 - pkg:pypi/databricks-connect@15.1.1
@@ -142,6 +143,7 @@
 - pkg:pypi/databricks-connect@15.4.12
 - pkg:pypi/databricks-connect@15.4.13
 - pkg:pypi/databricks-connect@15.4.14
+- pkg:pypi/databricks-connect@15.4.15
 - pkg:pypi/databricks-connect@16.0.0
 - pkg:pypi/databricks-connect@16.0.1
 - pkg:pypi/databricks-connect@16.0.2
@@ -174,6 +176,7 @@
 - pkg:pypi/databricks-connect@16.4.4
 - pkg:pypi/databricks-connect@16.4.5
 - pkg:pypi/databricks-connect@16.4.6
+- pkg:pypi/databricks-connect@16.4.7
 - pkg:pypi/databricks-connect@17.0.0
 - pkg:pypi/databricks-connect@17.0.1
 - pkg:pypi/databricks-connect@17.0.2
@@ -181,8 +184,14 @@
 - pkg:pypi/databricks-connect@17.0.4
 - pkg:pypi/databricks-connect@17.0.5
 - pkg:pypi/databricks-connect@17.0.6
+- pkg:pypi/databricks-connect@17.0.7
+- pkg:pypi/databricks-connect@17.0.8
 - pkg:pypi/databricks-connect@17.1.0
 - pkg:pypi/databricks-connect@17.1.1
 - pkg:pypi/databricks-connect@17.1.2
 - pkg:pypi/databricks-connect@17.1.3
+- pkg:pypi/databricks-connect@17.1.4
+- pkg:pypi/databricks-connect@17.1.5
 - pkg:pypi/databricks-connect@17.2.0
+- pkg:pypi/databricks-connect@17.2.1
+- pkg:pypi/databricks-connect@17.2.2
