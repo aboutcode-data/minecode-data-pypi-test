@@ -1,0 +1,6 @@
+- pkg:pypi/cudaq@0.9.0
+- pkg:pypi/cudaq@0.9.1
+- pkg:pypi/cudaq@0.10.0
+- pkg:pypi/cudaq@0.11.0
+- pkg:pypi/cudaq@0.12.0
+- pkg:pypi/cudaq@0.12.0.post1
